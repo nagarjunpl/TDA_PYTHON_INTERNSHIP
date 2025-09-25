@@ -1,0 +1,11 @@
+date,category,amount,payment_mode,notes
+2023-03-01,Food,45,Card,Lunch
+2023-03-02,Transport,18,Cash,Bus fare
+2023-03-03,Groceries,245,Card,Weekly groceries
+2023-03-04,Entertainment,120,UPI,Movie and snacks
+2023-03-05,Food,60,UPI,Dinner
+2023-03-06,Transport,20,Cash,Taxi
+2023-03-07,Groceries,180,Card,Vegetables and fruits
+2023-03-08,Utilities,300,Card,Electricity bill
+2023-03-09,Food,50,Cash,Breakfast
+2023-03-10,Entertainment,200,Card,Concert tickets
