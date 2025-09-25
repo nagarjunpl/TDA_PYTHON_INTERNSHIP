@@ -1,0 +1,9 @@
+student_id,name,class,math,science,english,total,percentage,pass
+1,Asha,10,78,82,71,231,77.0,True
+2,Rahul,10,56,61,59,176,58.666666666666664,True
+3,Meera,10,89,90,92,271,90.33333333333333,True
+4,Karan,9,65,58,72,195,65.0,True
+5,Sonia,9,92,88,95,275,91.66666666666667,True
+6,Anil,10,45,39,50,134,44.666666666666664,True
+7,Rita,9,74,68,70,212,70.66666666666667,True
+8,Suresh,10,81,77,85,243,81.0,True
