@@ -1,0 +1,4 @@
+Roll,Name,Marks,Total,Percentage,Grade
+3,nagarjun,"{'Math': 56, 'Science': 45, 'English': 78}",179.0,59.666666666666664,Fail
+1,arjun,"{'Math': 89, 'Science': 90, 'English': 98}",277,92.33333333333333,A+
+2,arr,"{'Math': 23, 'Science': 79, 'English': 89}",191,63.666666666666664,C
